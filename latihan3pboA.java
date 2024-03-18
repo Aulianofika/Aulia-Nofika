@@ -8,7 +8,7 @@ public class latihan3pboA {
     public static void main(String[] args) {
         for ( int i = 0; i <= 100;i++)
         {
-            System.out.println("zaki zafran");
+            System.out.println("aulia nofika");
         }
     }
 }
